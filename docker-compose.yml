@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  test:
+    build:
+      context: .
+    environment:
+      - NODE_ENV=development
+      - CI=${CI:-false}
+    command: sh -c "npm run lint && npm test"
