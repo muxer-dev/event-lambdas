@@ -323,3 +323,60 @@ out the `getFromS3` and `uploadTo` calls whilst in development.
 #### `farsetlabs:transform:logs`
 
 Pulls the logs from cloudwatch of the last lambda run. Useful for debugging.
+
+
+---
+
+## Publisher
+
+Lambdas used to push events to the Muxer service. There are helper scripts to
+aid in deployment and development. Use `npm run <command>` with any of the
+below.
+
+#### `publisher:deploy`
+
+Deploy (or redeploy) the lambdas and all associated infrastructure. Do this
+when setting up for the first time, or whenever the `serverless.yml` file
+changes
+
+
+### Publish
+
+This lambda takes the source agnostic standardised JSON data for events, which
+has been saved to S3, and publishes it to the Muxer events service.
+
+This lambda is triggered by the creation of the source file by the transformer
+lambdas.
+
+#### `publisher:publish:update`
+
+Update just the handler functionality. Do then whenever you change the
+functionality of the lambda.
+
+#### `publisher:publish:invoke`
+
+Invoke the lambda on AWS. As this lambda is triggered by the creation of files
+in the transformed bucket, this may not run correctly. It can be invoked by
+calling the producer/transformer invoke commands instead, to push new data into
+the bucket.
+
+#### `publisher:publish:invoke-local`
+
+Invoke the lambda locally. Use this for development.
+
+The local lambda will need to be provided with an event object which contains
+mock values for the newly created file. Samples of the AWS event objects can be
+found at:
+https://docs.aws.amazon.com/lambda/latest/dg/eventsources.html#eventsources-s3-put
+
+The local lambda will not have permissions to read files from S3 and you will
+receive an "Access Denied" error. Instead you may want to comment out the
+`getFromS3` call whilst in development.
+
+In addition, in development you will not want to push events directly to the
+production Muxer events service. This should be pointed to your locally running
+service instead.
+
+#### `publisher:publish:logs`
+
+Pulls the logs from cloudwatch of the last lambda run. Useful for debugging.

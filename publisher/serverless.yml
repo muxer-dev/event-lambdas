@@ -1,0 +1,47 @@
+service: ${file(./package.json):name}
+
+custom: ${file(./config.js):buckets}
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - s3:*
+      Resource:
+        Fn::Join:
+          - ""
+          - - "arn:aws:s3:::"
+            - ${self:custom.eventsBucket}
+            - "/*"
+
+functions:
+  publish:
+    handler: handlers/publisher.publish
+    environment:
+      TZ: Europe/Belfast
+
+resources:
+  Resources:
+    S3BucketMuxerTransformedEvents:
+      DependsOn:
+        - TransformLambdaPermissionS3BucketMuxerTransformedEventsS3
+      Type: AWS::S3::Bucket
+      Properties:
+        BucketName: ${self:custom.eventsBucket}
+        NotificationConfiguration:
+          LambdaConfigurations:
+            - Event: "s3:ObjectCreated:*"
+              Function:
+                "Fn::GetAtt": [ TransformLambdaFunction, Arn ]
+    TransformLambdaPermissionS3BucketMuxerTransformedEventsS3:
+      DependsOn:
+        - TransformLambdaFunction
+      Type: AWS::Lambda::Permission
+      Properties:
+        FunctionName:
+          "Fn::GetAtt": [ TransformLambdaFunction, Arn ]
+        Action: "lambda:InvokeFunction"
+        Principal: "s3.amazonaws.com"
+        SourceArn: "arn:aws:s3:::${self:custom.eventsBucket}"

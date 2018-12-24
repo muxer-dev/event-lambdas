@@ -1,0 +1,1353 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Publisher when a new file is added to the bucket which contains an incomplete event filters out invalid event from requests 1`] = `
+Array [
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "If you have the ability and enjoy solving mathematical puzzles and problems then this is your chance to shine. All you need to do is register your team.
+The competition will take place on Friday 7 December 2018 from 11 am to 3 pm in the South Dining Hall at Queen's University Belfast.
+There is no entry fee. Teams should have between 2 and 4 members and its members should be in years 13–14. Each school can enter only one team, and every team should be accompanied on the day by a teacher.
+There will be prizes for the first, second and third places. In addition, all participants will receive a certificate.
+Places for the competition are limited, so they will be allocated on a first-come first-served basis.
+The closing date for entries is Friday 30 November 2018.
+
+Schedule
+The running order for the competition will be
+11:00 – 11:45     Round 1
+                           Each team will work on a set of mathematical problems.
+11:45 – 12:30     Lunch
+                           Lunch is not provided. Pupils and teachers are welcome to bring packed lunches. Lunch can also be bought from a few cafés within a few-minute walk of the venue.
+12:30 – 13:15     Round 2
+                           Each team will work on a set of mathematical puzzles.
+13:15 – 13:30     Break
+                           Snack and drinks will be provided.
+13:30 – 15:00     Quiz and Prize Ceremony
+                           The last part of the quiz will be a maths table quiz.
+Please also note that calculators are permitted, but may not necessarily be useful!
+
+FAQs
+Where is the South Dining Hall?
+The South Dining Hall is located on the main university campus. It is number 6 on the map below.
+
+
+What are my transport/parking options for getting to and from the event?
+We are sorry that we cannot offer parking at Queen's University Belfast due to the event being held during term time. However small school buses may enter for disembarking and collection though the entrance to the Main Campus on University Square (requires prior arrangement with the organisers).
+How can I contact the organiser with any questions?
+Please e-mail mp.outreach@qub.ac.uk with subject \\"QUB Maths Competition\\"",
+        "duration": 14400000,
+        "end": "2018-12-07T15:00:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "QUB Maths Competition for Schools 2018",
+        "source": "eventbrite",
+        "source_id": "51708484469",
+        "start": "2018-12-07T11:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/qub-maths-competition-for-schools-2018-tickets-51708484469?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "Description
+The course consists of five days of classroom-based training, including hands-on experience with Cisco networking products. CCNA.ie is the highest rated CCNA college in Ireland with over 35 independent 5 star reviews.
+We only take max five students per bootcamp course ensuring all students gets to understand all CCNA topics in full.
+Reviews
+Thank you very much for the help and guidance, thanks to you I have passed. You where an exceptional teacher and helped me get through the exam. The lectures where very comprehensive and you have given many practical examples, which helped me better understand the subject. Once again a big thank you and I am grateful to have had you as a teacher. Keep up the good work and hopefully we can work together again on the CCNP in the future.
+Outcome
+We run these courses to help individuals to understand the fundamentals of networking devices and how data is forwarded across a network. The day is designed to assist people to determine if pursuing a career in networking is for them.
+Jobs
+Network Engineer, System Administrator, Desktop Support,",
+        "duration": 460800000,
+        "end": "2019-02-02T17:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "CCNA.ie Five Day CCNA Bootcamp Course Belfast",
+        "source": "eventbrite",
+        "source_id": "49663280208",
+        "start": "2019-01-28T09:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+          "High Tech",
+        ],
+        "url": "https://www.eventbrite.com/e/ccnaie-five-day-ccna-bootcamp-course-belfast-tickets-49663280208?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "Opportunity for patients, clinicians, developers and data scientists to shape digital tools used in providing care from contemplation of surgery to completion of recovery.",
+        "duration": 172800000,
+        "end": "2019-02-24T18:00:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "Digital innovation for major surgery",
+        "source": "eventbrite",
+        "source_id": "50945239583",
+        "start": "2019-02-22T18:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+          "Medicine",
+        ],
+        "url": "https://www.eventbrite.com/e/digital-innovation-for-major-surgery-tickets-50945239583?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at The University of Ulster and any other students studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
+There are 1 experience operating on the 15th March in Ulster. A daytime experience operating between 10.00am and 3.00pm. 
+All tickets are sold subject to the ITAE Groups terms and conditions. All tickets are non refundable and non transferable. Strictly students over 16. No alcohol permitted. Photography and recorded footage will be taken.
+Copyright 2018.",
+        "duration": 18000000,
+        "end": "2019-03-15T15:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "The VIVIT Experience | Enhanced Undergraduate Post Mortem | Ulster 15/03/19",
+        "source": "eventbrite",
+        "source_id": "47772276164",
+        "start": "2019-03-15T10:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/the-vivit-experience-enhanced-undergraduate-post-mortem-ulster-150319-tickets-47772276164?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "ANATOMY LAB LIVE | THE SURGERY
+Anatomy Lab LIVE is returning for 2019 offering a surgical spin on dinner and dissection. The nationally acclaimed dinner and dissection experience attracted headlines around the world and after two amazing sell out tours we’re back for 2019 bigger and better than before!
+The experience will see those quick enough to grab tickets enjoy a two course meal in our operating theatre dining room. The room will plunge to blackout and our centre stage operating theatre will spring into action. Ventilators, a crash trolley and full team will spring will race the clock to save a patients life as the show opens. A live patient will be rushed through the crowd into the pod before being anaesthetised in a state of panic.  Broadcast to our live screens you’ll see Samuel Piri and his clinical team take the scalpel to the patients chest. As the scalpel goes in and the incisions are made the inside organs are revealed and surgery starts…  
+Each table will be draped in full blue surgical drapes as well as a surgical trolley with clamps, scalpels and an array of surgeons tools. Guided by nationally acclaimed human anatomist Samuel Piri and his team of clinicians you’ll systematically work your way through a complete dissection of the human body attempting a variety of surgical techniques.
+Working on real specimens using real surgeons tools you’ll discover the intricate structures and how they function to keep you alive. At the 2019 event you’ll also have a go yourself at corrective surgical procedures using real kit on the specimens.
+Each guest will be provided with real surgical overalls including a full surgeons gown, hat, mask and gloves. You’ll be using real surgeons scissors, scalpels, clamps and kidney dishes to intubate the respiratory system and event suture tissues using surgeons suturing kits. After taking part you’ll claim your exclusive Anatomy Lab live CPD certificate. There will be an exclusive Anatomy Lab LIVE merchandise kiosk where you can buy notebook packs, organ transplant lunchboxes, blood infusion bag coffee cups, anatomy lab live surgical pyjamas and nurses watches.
+“Were really excited to be back with the surgery tour in 2019. We’ve worked hard to respond to everybody’s feedback and requests and the ‘The Surgery’ is definitely going to be exciting. A perfect blend of infotainment that will promise and unforgettable night like never before. We urge you to get your tickets as soon as possible as the last two tours have sold out within a few hours! ” Samuel Piri
+Who can attend?
+The event delivers in-depth content aimed at those studying anatomy, physiology or pathology at undergraduate level and for those who are already practicing healthcare professionals. The event is also a great experience for any person who is interested in the human body, disease or medicine on the whole. The wider general public are also encourage to attend.
+How do I get a ticket?
+
+
+Standard tickets £79.00
+
+
+HSC ticket £70.00 (NHS)
+
+
+NUS-USI tickets £70.00
+
+
+Group tickets for 10 people, (prosecco reception, upgraded nitrile glove packs, Anatomy lab live notebook and pencils) £900.00 (or £850 for a table of HSC staff, students, armed forces employees, University Staff or Teachers)
+
+
+Overnight Package for 2 people includes prosecco meet and greet, upgraded nitrile gloves and a room for two people (double or twin) and breakfast £300.00
+
+
+ 
+Full details and terms and conditions can be found online.
+You will receive a certificate for attending which can be used for your own CPD.
+This is a highly recommended event which made headline global news. We recommend booking tickets early as they will sell out.
+Student and NHS discount available (proof will be required for admission into the venue).
+The meal option is chicken or vegetarian, you will need to contact Anatomy Lab Live after purchasing the ticket to request a vegetarian meal. Chicken will be served by default.
+NB: All tickets are non-transferable and non-refundable.",
+        "duration": 18000000,
+        "end": "2019-03-16T22:30:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "ANATOMY LAB LIVE : THE SURGERY | Belfast 16/03/2019",
+        "source": "eventbrite",
+        "source_id": "45139814400",
+        "start": "2019-03-16T17:30:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/anatomy-lab-live-the-surgery-belfast-16032019-tickets-45139814400?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "As part of Innovate UK’s second Women in Innovation programme, KTN will be running four Building Success events in Cardiff, Glasgow, London and Belfast. Take the opportunity to network with like-minded women, learn from experts and hear from successful female entrepreneurs at these free to attend events. We'd encourage female founders and women working within innovation from all industries to attend.
+Starting at 8.30am with a networking breakfast the Building Success events will be an all-day event.
+The morning session will include an overview of the funding and finance landscape, including regional support, and upcoming opportunities from Innovate UK. After this there will be four masterclasses; two before lunch and two after.
+The masterclasses available are:
+
+Grant writing masterclass: When applying for a grant it often requires a significant investment of time to put forward a compelling case. Yet grants can be a real enabler in realising your innovative ideas and supporting business growth. So, what are the key elements that make a successful grant application? How can you make your application stand out from the crowd and deliver a competitive business case? Find out during this session.
+Market validation: Be equipped with tools and techniques to really gain understanding of your target market. Learn how to build this understanding into your proposed concept. This workshop helps develop a fundamental skill that ensures your concept is aligned with a true market need or challenge. The result? Product development has a clear route to market and the value you offer will be communicated to your customer with conviction. 
+Innovation canvas: There are many problems that need to be solved on the way to a successful commercial innovation. We need a framework that poses the questions that a company must address to manage a process that is often tortuous and unpredictable. Borrowing from the model of the Business Model Canvas, KTN has developed an ‘Innovation Canvas’, which is divided into conversation blocks focused on the major issues that must be addressed in the innovation process. Join this workshop to apply your innovation and see which areas you need to focus on.
+Investor readiness – helping you to understand what an investor is looking for: Are you looking to secure investment to grow your business? In this workshop learn about what an investor looks for, how to find committed and interested investors and how to present your business through a memorable pitch.
+
+After an afternoon coffee and networking break, the final part of the day will involve a panel session with successful female entrepreneurs in your region, and talks from previous Women in Innovation award winners.
+The event will conclude with a cheese and wine networking session finishing at 6.30pm.
+Join the conversation on social media using #WomenInnovate",
+        "duration": 36000000,
+        "end": "2019-03-20T18:30:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "Women in Innovation: Building Success - Belfast",
+        "source": "eventbrite",
+        "source_id": "48687856690",
+        "start": "2019-03-20T08:30:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/women-in-innovation-building-success-belfast-registration-48687856690?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "On behalf of Computing At School and the Network of Excellence
+
+
+Two-Day Programming Course for GCSE and A Level
+
+Thursday and Friday 30th and 31st May 2019
+
+Stranmillis University College
+
+
+
+
+
+
+Gain the skills and confidence to teach Python programming to pupils undertaking the new CCEA GCSE specification in Digital Technology, or who are following a GCSE Computing qualification with a UK examination board. This intensive event will start at the beginning, taking you through all of the key skills required for Computing at this level.
+
+
+
+We are offering 2 courses here one aimed at GCSE and the other at A level, There will be 2 teachers for these courses
+Day 1 - GCSE Overview and Understanding Programming: Input / output and assignment Selection and nested selection Iteration and looping constructs – While and for Loops Overview of the GCSE concepts; assessment criteria Developing applications in Python Day 2 - Advanced Skills: Identifying the key characteristics of pupil success at GCSE Creating user interfaces, validation, formatted output Lists, data manipulation Advanced variable assignment; data types; selection String manipulation vs list operations Use of functions and passing parameters Advanced Python – data storage and persistence
+
+A level:
+Coursework skills for success:
+
+Coursework ideas and complexity guides
+Workflow and project managements
+Graphical User Interfaces
+Object-Oriented Programming, including inheritance and polymorphism
+SQL-based relational database backend
+A look at some game creation techniques
+We will look at Python and C#
+
+ All materials and resources used on this course will be made available to all delegates after the course.
+SPEAKERS
+Darren Travi & Ilia Avroutine
+There are two teachers, both of whom have extensive experience of teaching Computer Science at GCSE and A Level, and who are extensively involved with a large Examination Board through the provision of resources, training, assessment and exams.  Darren Travi Head of Computing at the Royal Grammar School, High Wycombe and a CAS Master Teacher, Darren leads the South Buckinghamshire CAS Hub. He has taught A-Level Computer Science since the 1990's, and GCSE Computing since the course started in 2010.  Ilia Avroutine Ilia has taught A-Level Computer Science for over ten years, having previously taught Computing in Canada. He is Head of Computer Science at the Wetherby Senior School in London. He has a wide experience of teaching Computing and has co-authored a number of popular resources and textbooks. 
+CONTACT
+darren.travi@computingatschool.org.uk
+Electronic Privacy Computing At School (CAS)/Network of Excellence (NoE) communicates with its interested parties by email. I understand that CAS/NoE will not pass on my email address to other organisations. Data Protection Act 1998 CAS/NoE as part of the BCS Group will hold your personal data on its computer database and process it in accordance with the Act. This information may be accessed, viewed and used by CAS/NoE for administrative purposes and conducting market research. All of these purposes have been notified to the Commissioner. If you are based outside the European Economic Area (the 'EEA'), information about you may be transferred outside the EEA in accordance with the requirements of the Act.
+Full legal and privacy notices: http://www.bcs.org/category/5655",
+        "duration": 115200000,
+        "end": "2019-05-31T16:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "Two-Day Programming Course for GCSE and A Level",
+        "source": "eventbrite",
+        "source_id": "41694401076",
+        "start": "2019-05-30T08:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/two-day-programming-course-for-gcse-and-a-level-tickets-41694401076?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+]
+`;
+
+exports[`Publisher when a new file is added to the bucket which contains complete events sends events to the service 1`] = `
+Array [
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "We are delighted that this year's annual meeting will take place at the Wellcome Wolfson Institute for Experimental Medicine.  This is a large purpose-built centre for research located on the Queen's University campus at the Belfast City Hospital Site. Opened in 2015, the WWIEM sits adjacent to the Centre for Cancer Research & Cell Biology and, as such, the venue is the hub of health sciences research in Belfast.
+The purpose of the meeting is to provide a platform for leading researchers to present their latest findings in basic and clinical pharmacology, and in therapeutics.  There will also be presentations by early-career researchers, and prizes will be awarded for best oral and poster presentations in this category. In addition, the overall winner will have the opportunity to present a talk within one of the symposia at Pharmacology 2019, the flagship meeting of the British Pharmacological Society which will be held in London in December 2019.
+This year's event will include keynote presentations by:
+Keynote 1 - Jochen Prehn
+(Professor of Physiology & Director, Centre for Systems Medicine, Royal College of Surgeons, Ireland)
+Keynote 2 - Amrita Ahluwalia
+(Professor of Vascular Pharmacology and Co-Director of William Harvey Research Institute, London; Chief Editor of British Journal of Pharmacology)
+Keynote 3 - Danny McAuley
+(Professor and Consultant in Intensive Care Medicine at the Royal Victoria Hospital and Queen's University of Belfast)
+In addition, there are 8 slots for early-career researchers to make short presentations or to present a poster and prizes are awarded for best oral and poster presentations.",
+        "duration": 21600000,
+        "end": "2018-11-30T18:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "Irish Association of Pharmacologists Annual Meeting",
+        "source": "eventbrite",
+        "source_id": "49731283608",
+        "start": "2018-11-30T12:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.ie/e/irish-association-of-pharmacologists-annual-meeting-tickets-49731283608?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "If you have the ability and enjoy solving mathematical puzzles and problems then this is your chance to shine. All you need to do is register your team.
+The competition will take place on Friday 7 December 2018 from 11 am to 3 pm in the South Dining Hall at Queen's University Belfast.
+There is no entry fee. Teams should have between 2 and 4 members and its members should be in years 13–14. Each school can enter only one team, and every team should be accompanied on the day by a teacher.
+There will be prizes for the first, second and third places. In addition, all participants will receive a certificate.
+Places for the competition are limited, so they will be allocated on a first-come first-served basis.
+The closing date for entries is Friday 30 November 2018.
+
+Schedule
+The running order for the competition will be
+11:00 – 11:45     Round 1
+                           Each team will work on a set of mathematical problems.
+11:45 – 12:30     Lunch
+                           Lunch is not provided. Pupils and teachers are welcome to bring packed lunches. Lunch can also be bought from a few cafés within a few-minute walk of the venue.
+12:30 – 13:15     Round 2
+                           Each team will work on a set of mathematical puzzles.
+13:15 – 13:30     Break
+                           Snack and drinks will be provided.
+13:30 – 15:00     Quiz and Prize Ceremony
+                           The last part of the quiz will be a maths table quiz.
+Please also note that calculators are permitted, but may not necessarily be useful!
+
+FAQs
+Where is the South Dining Hall?
+The South Dining Hall is located on the main university campus. It is number 6 on the map below.
+
+
+What are my transport/parking options for getting to and from the event?
+We are sorry that we cannot offer parking at Queen's University Belfast due to the event being held during term time. However small school buses may enter for disembarking and collection though the entrance to the Main Campus on University Square (requires prior arrangement with the organisers).
+How can I contact the organiser with any questions?
+Please e-mail mp.outreach@qub.ac.uk with subject \\"QUB Maths Competition\\"",
+        "duration": 14400000,
+        "end": "2018-12-07T15:00:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "QUB Maths Competition for Schools 2018",
+        "source": "eventbrite",
+        "source_id": "51708484469",
+        "start": "2018-12-07T11:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/qub-maths-competition-for-schools-2018-tickets-51708484469?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "Description
+The course consists of five days of classroom-based training, including hands-on experience with Cisco networking products. CCNA.ie is the highest rated CCNA college in Ireland with over 35 independent 5 star reviews.
+We only take max five students per bootcamp course ensuring all students gets to understand all CCNA topics in full.
+Reviews
+Thank you very much for the help and guidance, thanks to you I have passed. You where an exceptional teacher and helped me get through the exam. The lectures where very comprehensive and you have given many practical examples, which helped me better understand the subject. Once again a big thank you and I am grateful to have had you as a teacher. Keep up the good work and hopefully we can work together again on the CCNP in the future.
+Outcome
+We run these courses to help individuals to understand the fundamentals of networking devices and how data is forwarded across a network. The day is designed to assist people to determine if pursuing a career in networking is for them.
+Jobs
+Network Engineer, System Administrator, Desktop Support,",
+        "duration": 460800000,
+        "end": "2019-02-02T17:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "CCNA.ie Five Day CCNA Bootcamp Course Belfast",
+        "source": "eventbrite",
+        "source_id": "49663280208",
+        "start": "2019-01-28T09:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+          "High Tech",
+        ],
+        "url": "https://www.eventbrite.com/e/ccnaie-five-day-ccna-bootcamp-course-belfast-tickets-49663280208?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "Opportunity for patients, clinicians, developers and data scientists to shape digital tools used in providing care from contemplation of surgery to completion of recovery.",
+        "duration": 172800000,
+        "end": "2019-02-24T18:00:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "Digital innovation for major surgery",
+        "source": "eventbrite",
+        "source_id": "50945239583",
+        "start": "2019-02-22T18:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+          "Medicine",
+        ],
+        "url": "https://www.eventbrite.com/e/digital-innovation-for-major-surgery-tickets-50945239583?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at The University of Ulster and any other students studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
+There are 1 experience operating on the 15th March in Ulster. A daytime experience operating between 10.00am and 3.00pm. 
+All tickets are sold subject to the ITAE Groups terms and conditions. All tickets are non refundable and non transferable. Strictly students over 16. No alcohol permitted. Photography and recorded footage will be taken.
+Copyright 2018.",
+        "duration": 18000000,
+        "end": "2019-03-15T15:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "The VIVIT Experience | Enhanced Undergraduate Post Mortem | Ulster 15/03/19",
+        "source": "eventbrite",
+        "source_id": "47772276164",
+        "start": "2019-03-15T10:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/the-vivit-experience-enhanced-undergraduate-post-mortem-ulster-150319-tickets-47772276164?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "ANATOMY LAB LIVE | THE SURGERY
+Anatomy Lab LIVE is returning for 2019 offering a surgical spin on dinner and dissection. The nationally acclaimed dinner and dissection experience attracted headlines around the world and after two amazing sell out tours we’re back for 2019 bigger and better than before!
+The experience will see those quick enough to grab tickets enjoy a two course meal in our operating theatre dining room. The room will plunge to blackout and our centre stage operating theatre will spring into action. Ventilators, a crash trolley and full team will spring will race the clock to save a patients life as the show opens. A live patient will be rushed through the crowd into the pod before being anaesthetised in a state of panic.  Broadcast to our live screens you’ll see Samuel Piri and his clinical team take the scalpel to the patients chest. As the scalpel goes in and the incisions are made the inside organs are revealed and surgery starts…  
+Each table will be draped in full blue surgical drapes as well as a surgical trolley with clamps, scalpels and an array of surgeons tools. Guided by nationally acclaimed human anatomist Samuel Piri and his team of clinicians you’ll systematically work your way through a complete dissection of the human body attempting a variety of surgical techniques.
+Working on real specimens using real surgeons tools you’ll discover the intricate structures and how they function to keep you alive. At the 2019 event you’ll also have a go yourself at corrective surgical procedures using real kit on the specimens.
+Each guest will be provided with real surgical overalls including a full surgeons gown, hat, mask and gloves. You’ll be using real surgeons scissors, scalpels, clamps and kidney dishes to intubate the respiratory system and event suture tissues using surgeons suturing kits. After taking part you’ll claim your exclusive Anatomy Lab live CPD certificate. There will be an exclusive Anatomy Lab LIVE merchandise kiosk where you can buy notebook packs, organ transplant lunchboxes, blood infusion bag coffee cups, anatomy lab live surgical pyjamas and nurses watches.
+“Were really excited to be back with the surgery tour in 2019. We’ve worked hard to respond to everybody’s feedback and requests and the ‘The Surgery’ is definitely going to be exciting. A perfect blend of infotainment that will promise and unforgettable night like never before. We urge you to get your tickets as soon as possible as the last two tours have sold out within a few hours! ” Samuel Piri
+Who can attend?
+The event delivers in-depth content aimed at those studying anatomy, physiology or pathology at undergraduate level and for those who are already practicing healthcare professionals. The event is also a great experience for any person who is interested in the human body, disease or medicine on the whole. The wider general public are also encourage to attend.
+How do I get a ticket?
+
+
+Standard tickets £79.00
+
+
+HSC ticket £70.00 (NHS)
+
+
+NUS-USI tickets £70.00
+
+
+Group tickets for 10 people, (prosecco reception, upgraded nitrile glove packs, Anatomy lab live notebook and pencils) £900.00 (or £850 for a table of HSC staff, students, armed forces employees, University Staff or Teachers)
+
+
+Overnight Package for 2 people includes prosecco meet and greet, upgraded nitrile gloves and a room for two people (double or twin) and breakfast £300.00
+
+
+ 
+Full details and terms and conditions can be found online.
+You will receive a certificate for attending which can be used for your own CPD.
+This is a highly recommended event which made headline global news. We recommend booking tickets early as they will sell out.
+Student and NHS discount available (proof will be required for admission into the venue).
+The meal option is chicken or vegetarian, you will need to contact Anatomy Lab Live after purchasing the ticket to request a vegetarian meal. Chicken will be served by default.
+NB: All tickets are non-transferable and non-refundable.",
+        "duration": 18000000,
+        "end": "2019-03-16T22:30:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "ANATOMY LAB LIVE : THE SURGERY | Belfast 16/03/2019",
+        "source": "eventbrite",
+        "source_id": "45139814400",
+        "start": "2019-03-16T17:30:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/anatomy-lab-live-the-surgery-belfast-16032019-tickets-45139814400?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "As part of Innovate UK’s second Women in Innovation programme, KTN will be running four Building Success events in Cardiff, Glasgow, London and Belfast. Take the opportunity to network with like-minded women, learn from experts and hear from successful female entrepreneurs at these free to attend events. We'd encourage female founders and women working within innovation from all industries to attend.
+Starting at 8.30am with a networking breakfast the Building Success events will be an all-day event.
+The morning session will include an overview of the funding and finance landscape, including regional support, and upcoming opportunities from Innovate UK. After this there will be four masterclasses; two before lunch and two after.
+The masterclasses available are:
+
+Grant writing masterclass: When applying for a grant it often requires a significant investment of time to put forward a compelling case. Yet grants can be a real enabler in realising your innovative ideas and supporting business growth. So, what are the key elements that make a successful grant application? How can you make your application stand out from the crowd and deliver a competitive business case? Find out during this session.
+Market validation: Be equipped with tools and techniques to really gain understanding of your target market. Learn how to build this understanding into your proposed concept. This workshop helps develop a fundamental skill that ensures your concept is aligned with a true market need or challenge. The result? Product development has a clear route to market and the value you offer will be communicated to your customer with conviction. 
+Innovation canvas: There are many problems that need to be solved on the way to a successful commercial innovation. We need a framework that poses the questions that a company must address to manage a process that is often tortuous and unpredictable. Borrowing from the model of the Business Model Canvas, KTN has developed an ‘Innovation Canvas’, which is divided into conversation blocks focused on the major issues that must be addressed in the innovation process. Join this workshop to apply your innovation and see which areas you need to focus on.
+Investor readiness – helping you to understand what an investor is looking for: Are you looking to secure investment to grow your business? In this workshop learn about what an investor looks for, how to find committed and interested investors and how to present your business through a memorable pitch.
+
+After an afternoon coffee and networking break, the final part of the day will involve a panel session with successful female entrepreneurs in your region, and talks from previous Women in Innovation award winners.
+The event will conclude with a cheese and wine networking session finishing at 6.30pm.
+Join the conversation on social media using #WomenInnovate",
+        "duration": 36000000,
+        "end": "2019-03-20T18:30:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "Women in Innovation: Building Success - Belfast",
+        "source": "eventbrite",
+        "source_id": "48687856690",
+        "start": "2019-03-20T08:30:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/women-in-innovation-building-success-belfast-registration-48687856690?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "On behalf of Computing At School and the Network of Excellence
+
+
+Two-Day Programming Course for GCSE and A Level
+
+Thursday and Friday 30th and 31st May 2019
+
+Stranmillis University College
+
+
+
+
+
+
+Gain the skills and confidence to teach Python programming to pupils undertaking the new CCEA GCSE specification in Digital Technology, or who are following a GCSE Computing qualification with a UK examination board. This intensive event will start at the beginning, taking you through all of the key skills required for Computing at this level.
+
+
+
+We are offering 2 courses here one aimed at GCSE and the other at A level, There will be 2 teachers for these courses
+Day 1 - GCSE Overview and Understanding Programming: Input / output and assignment Selection and nested selection Iteration and looping constructs – While and for Loops Overview of the GCSE concepts; assessment criteria Developing applications in Python Day 2 - Advanced Skills: Identifying the key characteristics of pupil success at GCSE Creating user interfaces, validation, formatted output Lists, data manipulation Advanced variable assignment; data types; selection String manipulation vs list operations Use of functions and passing parameters Advanced Python – data storage and persistence
+
+A level:
+Coursework skills for success:
+
+Coursework ideas and complexity guides
+Workflow and project managements
+Graphical User Interfaces
+Object-Oriented Programming, including inheritance and polymorphism
+SQL-based relational database backend
+A look at some game creation techniques
+We will look at Python and C#
+
+ All materials and resources used on this course will be made available to all delegates after the course.
+SPEAKERS
+Darren Travi & Ilia Avroutine
+There are two teachers, both of whom have extensive experience of teaching Computer Science at GCSE and A Level, and who are extensively involved with a large Examination Board through the provision of resources, training, assessment and exams.  Darren Travi Head of Computing at the Royal Grammar School, High Wycombe and a CAS Master Teacher, Darren leads the South Buckinghamshire CAS Hub. He has taught A-Level Computer Science since the 1990's, and GCSE Computing since the course started in 2010.  Ilia Avroutine Ilia has taught A-Level Computer Science for over ten years, having previously taught Computing in Canada. He is Head of Computer Science at the Wetherby Senior School in London. He has a wide experience of teaching Computing and has co-authored a number of popular resources and textbooks. 
+CONTACT
+darren.travi@computingatschool.org.uk
+Electronic Privacy Computing At School (CAS)/Network of Excellence (NoE) communicates with its interested parties by email. I understand that CAS/NoE will not pass on my email address to other organisations. Data Protection Act 1998 CAS/NoE as part of the BCS Group will hold your personal data on its computer database and process it in accordance with the Act. This information may be accessed, viewed and used by CAS/NoE for administrative purposes and conducting market research. All of these purposes have been notified to the Commissioner. If you are based outside the European Economic Area (the 'EEA'), information about you may be transferred outside the EEA in accordance with the requirements of the Act.
+Full legal and privacy notices: http://www.bcs.org/category/5655",
+        "duration": 115200000,
+        "end": "2019-05-31T16:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "Two-Day Programming Course for GCSE and A Level",
+        "source": "eventbrite",
+        "source_id": "41694401076",
+        "start": "2019-05-30T08:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/two-day-programming-course-for-gcse-and-a-level-tickets-41694401076?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+]
+`;
+
+exports[`Publisher when multiple new files are added to the bucket sends events to the service 1`] = `
+Array [
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "We are delighted that this year's annual meeting will take place at the Wellcome Wolfson Institute for Experimental Medicine.  This is a large purpose-built centre for research located on the Queen's University campus at the Belfast City Hospital Site. Opened in 2015, the WWIEM sits adjacent to the Centre for Cancer Research & Cell Biology and, as such, the venue is the hub of health sciences research in Belfast.
+The purpose of the meeting is to provide a platform for leading researchers to present their latest findings in basic and clinical pharmacology, and in therapeutics.  There will also be presentations by early-career researchers, and prizes will be awarded for best oral and poster presentations in this category. In addition, the overall winner will have the opportunity to present a talk within one of the symposia at Pharmacology 2019, the flagship meeting of the British Pharmacological Society which will be held in London in December 2019.
+This year's event will include keynote presentations by:
+Keynote 1 - Jochen Prehn
+(Professor of Physiology & Director, Centre for Systems Medicine, Royal College of Surgeons, Ireland)
+Keynote 2 - Amrita Ahluwalia
+(Professor of Vascular Pharmacology and Co-Director of William Harvey Research Institute, London; Chief Editor of British Journal of Pharmacology)
+Keynote 3 - Danny McAuley
+(Professor and Consultant in Intensive Care Medicine at the Royal Victoria Hospital and Queen's University of Belfast)
+In addition, there are 8 slots for early-career researchers to make short presentations or to present a poster and prizes are awarded for best oral and poster presentations.",
+        "duration": 21600000,
+        "end": "2018-11-30T18:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "Irish Association of Pharmacologists Annual Meeting",
+        "source": "eventbrite",
+        "source_id": "49731283608",
+        "start": "2018-11-30T12:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.ie/e/irish-association-of-pharmacologists-annual-meeting-tickets-49731283608?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "If you have the ability and enjoy solving mathematical puzzles and problems then this is your chance to shine. All you need to do is register your team.
+The competition will take place on Friday 7 December 2018 from 11 am to 3 pm in the South Dining Hall at Queen's University Belfast.
+There is no entry fee. Teams should have between 2 and 4 members and its members should be in years 13–14. Each school can enter only one team, and every team should be accompanied on the day by a teacher.
+There will be prizes for the first, second and third places. In addition, all participants will receive a certificate.
+Places for the competition are limited, so they will be allocated on a first-come first-served basis.
+The closing date for entries is Friday 30 November 2018.
+
+Schedule
+The running order for the competition will be
+11:00 – 11:45     Round 1
+                           Each team will work on a set of mathematical problems.
+11:45 – 12:30     Lunch
+                           Lunch is not provided. Pupils and teachers are welcome to bring packed lunches. Lunch can also be bought from a few cafés within a few-minute walk of the venue.
+12:30 – 13:15     Round 2
+                           Each team will work on a set of mathematical puzzles.
+13:15 – 13:30     Break
+                           Snack and drinks will be provided.
+13:30 – 15:00     Quiz and Prize Ceremony
+                           The last part of the quiz will be a maths table quiz.
+Please also note that calculators are permitted, but may not necessarily be useful!
+
+FAQs
+Where is the South Dining Hall?
+The South Dining Hall is located on the main university campus. It is number 6 on the map below.
+
+
+What are my transport/parking options for getting to and from the event?
+We are sorry that we cannot offer parking at Queen's University Belfast due to the event being held during term time. However small school buses may enter for disembarking and collection though the entrance to the Main Campus on University Square (requires prior arrangement with the organisers).
+How can I contact the organiser with any questions?
+Please e-mail mp.outreach@qub.ac.uk with subject \\"QUB Maths Competition\\"",
+        "duration": 14400000,
+        "end": "2018-12-07T15:00:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "QUB Maths Competition for Schools 2018",
+        "source": "eventbrite",
+        "source_id": "51708484469",
+        "start": "2018-12-07T11:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/qub-maths-competition-for-schools-2018-tickets-51708484469?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "Description
+The course consists of five days of classroom-based training, including hands-on experience with Cisco networking products. CCNA.ie is the highest rated CCNA college in Ireland with over 35 independent 5 star reviews.
+We only take max five students per bootcamp course ensuring all students gets to understand all CCNA topics in full.
+Reviews
+Thank you very much for the help and guidance, thanks to you I have passed. You where an exceptional teacher and helped me get through the exam. The lectures where very comprehensive and you have given many practical examples, which helped me better understand the subject. Once again a big thank you and I am grateful to have had you as a teacher. Keep up the good work and hopefully we can work together again on the CCNP in the future.
+Outcome
+We run these courses to help individuals to understand the fundamentals of networking devices and how data is forwarded across a network. The day is designed to assist people to determine if pursuing a career in networking is for them.
+Jobs
+Network Engineer, System Administrator, Desktop Support,",
+        "duration": 460800000,
+        "end": "2019-02-02T17:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "CCNA.ie Five Day CCNA Bootcamp Course Belfast",
+        "source": "eventbrite",
+        "source_id": "49663280208",
+        "start": "2019-01-28T09:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+          "High Tech",
+        ],
+        "url": "https://www.eventbrite.com/e/ccnaie-five-day-ccna-bootcamp-course-belfast-tickets-49663280208?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "Opportunity for patients, clinicians, developers and data scientists to shape digital tools used in providing care from contemplation of surgery to completion of recovery.",
+        "duration": 172800000,
+        "end": "2019-02-24T18:00:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "Digital innovation for major surgery",
+        "source": "eventbrite",
+        "source_id": "50945239583",
+        "start": "2019-02-22T18:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+          "Medicine",
+        ],
+        "url": "https://www.eventbrite.com/e/digital-innovation-for-major-surgery-tickets-50945239583?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at The University of Ulster and any other students studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
+There are 1 experience operating on the 15th March in Ulster. A daytime experience operating between 10.00am and 3.00pm. 
+All tickets are sold subject to the ITAE Groups terms and conditions. All tickets are non refundable and non transferable. Strictly students over 16. No alcohol permitted. Photography and recorded footage will be taken.
+Copyright 2018.",
+        "duration": 18000000,
+        "end": "2019-03-15T15:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "The VIVIT Experience | Enhanced Undergraduate Post Mortem | Ulster 15/03/19",
+        "source": "eventbrite",
+        "source_id": "47772276164",
+        "start": "2019-03-15T10:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/the-vivit-experience-enhanced-undergraduate-post-mortem-ulster-150319-tickets-47772276164?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "ANATOMY LAB LIVE | THE SURGERY
+Anatomy Lab LIVE is returning for 2019 offering a surgical spin on dinner and dissection. The nationally acclaimed dinner and dissection experience attracted headlines around the world and after two amazing sell out tours we’re back for 2019 bigger and better than before!
+The experience will see those quick enough to grab tickets enjoy a two course meal in our operating theatre dining room. The room will plunge to blackout and our centre stage operating theatre will spring into action. Ventilators, a crash trolley and full team will spring will race the clock to save a patients life as the show opens. A live patient will be rushed through the crowd into the pod before being anaesthetised in a state of panic.  Broadcast to our live screens you’ll see Samuel Piri and his clinical team take the scalpel to the patients chest. As the scalpel goes in and the incisions are made the inside organs are revealed and surgery starts…  
+Each table will be draped in full blue surgical drapes as well as a surgical trolley with clamps, scalpels and an array of surgeons tools. Guided by nationally acclaimed human anatomist Samuel Piri and his team of clinicians you’ll systematically work your way through a complete dissection of the human body attempting a variety of surgical techniques.
+Working on real specimens using real surgeons tools you’ll discover the intricate structures and how they function to keep you alive. At the 2019 event you’ll also have a go yourself at corrective surgical procedures using real kit on the specimens.
+Each guest will be provided with real surgical overalls including a full surgeons gown, hat, mask and gloves. You’ll be using real surgeons scissors, scalpels, clamps and kidney dishes to intubate the respiratory system and event suture tissues using surgeons suturing kits. After taking part you’ll claim your exclusive Anatomy Lab live CPD certificate. There will be an exclusive Anatomy Lab LIVE merchandise kiosk where you can buy notebook packs, organ transplant lunchboxes, blood infusion bag coffee cups, anatomy lab live surgical pyjamas and nurses watches.
+“Were really excited to be back with the surgery tour in 2019. We’ve worked hard to respond to everybody’s feedback and requests and the ‘The Surgery’ is definitely going to be exciting. A perfect blend of infotainment that will promise and unforgettable night like never before. We urge you to get your tickets as soon as possible as the last two tours have sold out within a few hours! ” Samuel Piri
+Who can attend?
+The event delivers in-depth content aimed at those studying anatomy, physiology or pathology at undergraduate level and for those who are already practicing healthcare professionals. The event is also a great experience for any person who is interested in the human body, disease or medicine on the whole. The wider general public are also encourage to attend.
+How do I get a ticket?
+
+
+Standard tickets £79.00
+
+
+HSC ticket £70.00 (NHS)
+
+
+NUS-USI tickets £70.00
+
+
+Group tickets for 10 people, (prosecco reception, upgraded nitrile glove packs, Anatomy lab live notebook and pencils) £900.00 (or £850 for a table of HSC staff, students, armed forces employees, University Staff or Teachers)
+
+
+Overnight Package for 2 people includes prosecco meet and greet, upgraded nitrile gloves and a room for two people (double or twin) and breakfast £300.00
+
+
+ 
+Full details and terms and conditions can be found online.
+You will receive a certificate for attending which can be used for your own CPD.
+This is a highly recommended event which made headline global news. We recommend booking tickets early as they will sell out.
+Student and NHS discount available (proof will be required for admission into the venue).
+The meal option is chicken or vegetarian, you will need to contact Anatomy Lab Live after purchasing the ticket to request a vegetarian meal. Chicken will be served by default.
+NB: All tickets are non-transferable and non-refundable.",
+        "duration": 18000000,
+        "end": "2019-03-16T22:30:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "ANATOMY LAB LIVE : THE SURGERY | Belfast 16/03/2019",
+        "source": "eventbrite",
+        "source_id": "45139814400",
+        "start": "2019-03-16T17:30:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/anatomy-lab-live-the-surgery-belfast-16032019-tickets-45139814400?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "As part of Innovate UK’s second Women in Innovation programme, KTN will be running four Building Success events in Cardiff, Glasgow, London and Belfast. Take the opportunity to network with like-minded women, learn from experts and hear from successful female entrepreneurs at these free to attend events. We'd encourage female founders and women working within innovation from all industries to attend.
+Starting at 8.30am with a networking breakfast the Building Success events will be an all-day event.
+The morning session will include an overview of the funding and finance landscape, including regional support, and upcoming opportunities from Innovate UK. After this there will be four masterclasses; two before lunch and two after.
+The masterclasses available are:
+
+Grant writing masterclass: When applying for a grant it often requires a significant investment of time to put forward a compelling case. Yet grants can be a real enabler in realising your innovative ideas and supporting business growth. So, what are the key elements that make a successful grant application? How can you make your application stand out from the crowd and deliver a competitive business case? Find out during this session.
+Market validation: Be equipped with tools and techniques to really gain understanding of your target market. Learn how to build this understanding into your proposed concept. This workshop helps develop a fundamental skill that ensures your concept is aligned with a true market need or challenge. The result? Product development has a clear route to market and the value you offer will be communicated to your customer with conviction. 
+Innovation canvas: There are many problems that need to be solved on the way to a successful commercial innovation. We need a framework that poses the questions that a company must address to manage a process that is often tortuous and unpredictable. Borrowing from the model of the Business Model Canvas, KTN has developed an ‘Innovation Canvas’, which is divided into conversation blocks focused on the major issues that must be addressed in the innovation process. Join this workshop to apply your innovation and see which areas you need to focus on.
+Investor readiness – helping you to understand what an investor is looking for: Are you looking to secure investment to grow your business? In this workshop learn about what an investor looks for, how to find committed and interested investors and how to present your business through a memorable pitch.
+
+After an afternoon coffee and networking break, the final part of the day will involve a panel session with successful female entrepreneurs in your region, and talks from previous Women in Innovation award winners.
+The event will conclude with a cheese and wine networking session finishing at 6.30pm.
+Join the conversation on social media using #WomenInnovate",
+        "duration": 36000000,
+        "end": "2019-03-20T18:30:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "Women in Innovation: Building Success - Belfast",
+        "source": "eventbrite",
+        "source_id": "48687856690",
+        "start": "2019-03-20T08:30:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/women-in-innovation-building-success-belfast-registration-48687856690?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "On behalf of Computing At School and the Network of Excellence
+
+
+Two-Day Programming Course for GCSE and A Level
+
+Thursday and Friday 30th and 31st May 2019
+
+Stranmillis University College
+
+
+
+
+
+
+Gain the skills and confidence to teach Python programming to pupils undertaking the new CCEA GCSE specification in Digital Technology, or who are following a GCSE Computing qualification with a UK examination board. This intensive event will start at the beginning, taking you through all of the key skills required for Computing at this level.
+
+
+
+We are offering 2 courses here one aimed at GCSE and the other at A level, There will be 2 teachers for these courses
+Day 1 - GCSE Overview and Understanding Programming: Input / output and assignment Selection and nested selection Iteration and looping constructs – While and for Loops Overview of the GCSE concepts; assessment criteria Developing applications in Python Day 2 - Advanced Skills: Identifying the key characteristics of pupil success at GCSE Creating user interfaces, validation, formatted output Lists, data manipulation Advanced variable assignment; data types; selection String manipulation vs list operations Use of functions and passing parameters Advanced Python – data storage and persistence
+
+A level:
+Coursework skills for success:
+
+Coursework ideas and complexity guides
+Workflow and project managements
+Graphical User Interfaces
+Object-Oriented Programming, including inheritance and polymorphism
+SQL-based relational database backend
+A look at some game creation techniques
+We will look at Python and C#
+
+ All materials and resources used on this course will be made available to all delegates after the course.
+SPEAKERS
+Darren Travi & Ilia Avroutine
+There are two teachers, both of whom have extensive experience of teaching Computer Science at GCSE and A Level, and who are extensively involved with a large Examination Board through the provision of resources, training, assessment and exams.  Darren Travi Head of Computing at the Royal Grammar School, High Wycombe and a CAS Master Teacher, Darren leads the South Buckinghamshire CAS Hub. He has taught A-Level Computer Science since the 1990's, and GCSE Computing since the course started in 2010.  Ilia Avroutine Ilia has taught A-Level Computer Science for over ten years, having previously taught Computing in Canada. He is Head of Computer Science at the Wetherby Senior School in London. He has a wide experience of teaching Computing and has co-authored a number of popular resources and textbooks. 
+CONTACT
+darren.travi@computingatschool.org.uk
+Electronic Privacy Computing At School (CAS)/Network of Excellence (NoE) communicates with its interested parties by email. I understand that CAS/NoE will not pass on my email address to other organisations. Data Protection Act 1998 CAS/NoE as part of the BCS Group will hold your personal data on its computer database and process it in accordance with the Act. This information may be accessed, viewed and used by CAS/NoE for administrative purposes and conducting market research. All of these purposes have been notified to the Commissioner. If you are based outside the European Economic Area (the 'EEA'), information about you may be transferred outside the EEA in accordance with the requirements of the Act.
+Full legal and privacy notices: http://www.bcs.org/category/5655",
+        "duration": 115200000,
+        "end": "2019-05-31T16:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "Two-Day Programming Course for GCSE and A Level",
+        "source": "eventbrite",
+        "source_id": "41694401076",
+        "start": "2019-05-30T08:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/two-day-programming-course-for-gcse-and-a-level-tickets-41694401076?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "We are delighted that this year's annual meeting will take place at the Wellcome Wolfson Institute for Experimental Medicine.  This is a large purpose-built centre for research located on the Queen's University campus at the Belfast City Hospital Site. Opened in 2015, the WWIEM sits adjacent to the Centre for Cancer Research & Cell Biology and, as such, the venue is the hub of health sciences research in Belfast.
+The purpose of the meeting is to provide a platform for leading researchers to present their latest findings in basic and clinical pharmacology, and in therapeutics.  There will also be presentations by early-career researchers, and prizes will be awarded for best oral and poster presentations in this category. In addition, the overall winner will have the opportunity to present a talk within one of the symposia at Pharmacology 2019, the flagship meeting of the British Pharmacological Society which will be held in London in December 2019.
+This year's event will include keynote presentations by:
+Keynote 1 - Jochen Prehn
+(Professor of Physiology & Director, Centre for Systems Medicine, Royal College of Surgeons, Ireland)
+Keynote 2 - Amrita Ahluwalia
+(Professor of Vascular Pharmacology and Co-Director of William Harvey Research Institute, London; Chief Editor of British Journal of Pharmacology)
+Keynote 3 - Danny McAuley
+(Professor and Consultant in Intensive Care Medicine at the Royal Victoria Hospital and Queen's University of Belfast)
+In addition, there are 8 slots for early-career researchers to make short presentations or to present a poster and prizes are awarded for best oral and poster presentations.",
+        "duration": 21600000,
+        "end": "2018-11-30T18:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "Irish Association of Pharmacologists Annual Meeting",
+        "source": "eventbrite",
+        "source_id": "49731283608",
+        "start": "2018-11-30T12:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.ie/e/irish-association-of-pharmacologists-annual-meeting-tickets-49731283608?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "If you have the ability and enjoy solving mathematical puzzles and problems then this is your chance to shine. All you need to do is register your team.
+The competition will take place on Friday 7 December 2018 from 11 am to 3 pm in the South Dining Hall at Queen's University Belfast.
+There is no entry fee. Teams should have between 2 and 4 members and its members should be in years 13–14. Each school can enter only one team, and every team should be accompanied on the day by a teacher.
+There will be prizes for the first, second and third places. In addition, all participants will receive a certificate.
+Places for the competition are limited, so they will be allocated on a first-come first-served basis.
+The closing date for entries is Friday 30 November 2018.
+
+Schedule
+The running order for the competition will be
+11:00 – 11:45     Round 1
+                           Each team will work on a set of mathematical problems.
+11:45 – 12:30     Lunch
+                           Lunch is not provided. Pupils and teachers are welcome to bring packed lunches. Lunch can also be bought from a few cafés within a few-minute walk of the venue.
+12:30 – 13:15     Round 2
+                           Each team will work on a set of mathematical puzzles.
+13:15 – 13:30     Break
+                           Snack and drinks will be provided.
+13:30 – 15:00     Quiz and Prize Ceremony
+                           The last part of the quiz will be a maths table quiz.
+Please also note that calculators are permitted, but may not necessarily be useful!
+
+FAQs
+Where is the South Dining Hall?
+The South Dining Hall is located on the main university campus. It is number 6 on the map below.
+
+
+What are my transport/parking options for getting to and from the event?
+We are sorry that we cannot offer parking at Queen's University Belfast due to the event being held during term time. However small school buses may enter for disembarking and collection though the entrance to the Main Campus on University Square (requires prior arrangement with the organisers).
+How can I contact the organiser with any questions?
+Please e-mail mp.outreach@qub.ac.uk with subject \\"QUB Maths Competition\\"",
+        "duration": 14400000,
+        "end": "2018-12-07T15:00:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "QUB Maths Competition for Schools 2018",
+        "source": "eventbrite",
+        "source_id": "51708484469",
+        "start": "2018-12-07T11:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/qub-maths-competition-for-schools-2018-tickets-51708484469?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "Description
+The course consists of five days of classroom-based training, including hands-on experience with Cisco networking products. CCNA.ie is the highest rated CCNA college in Ireland with over 35 independent 5 star reviews.
+We only take max five students per bootcamp course ensuring all students gets to understand all CCNA topics in full.
+Reviews
+Thank you very much for the help and guidance, thanks to you I have passed. You where an exceptional teacher and helped me get through the exam. The lectures where very comprehensive and you have given many practical examples, which helped me better understand the subject. Once again a big thank you and I am grateful to have had you as a teacher. Keep up the good work and hopefully we can work together again on the CCNP in the future.
+Outcome
+We run these courses to help individuals to understand the fundamentals of networking devices and how data is forwarded across a network. The day is designed to assist people to determine if pursuing a career in networking is for them.
+Jobs
+Network Engineer, System Administrator, Desktop Support,",
+        "duration": 460800000,
+        "end": "2019-02-02T17:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "CCNA.ie Five Day CCNA Bootcamp Course Belfast",
+        "source": "eventbrite",
+        "source_id": "49663280208",
+        "start": "2019-01-28T09:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+          "High Tech",
+        ],
+        "url": "https://www.eventbrite.com/e/ccnaie-five-day-ccna-bootcamp-course-belfast-tickets-49663280208?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "Opportunity for patients, clinicians, developers and data scientists to shape digital tools used in providing care from contemplation of surgery to completion of recovery.",
+        "duration": 172800000,
+        "end": "2019-02-24T18:00:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "Digital innovation for major surgery",
+        "source": "eventbrite",
+        "source_id": "50945239583",
+        "start": "2019-02-22T18:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+          "Medicine",
+        ],
+        "url": "https://www.eventbrite.com/e/digital-innovation-for-major-surgery-tickets-50945239583?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "The VIVIT Experience is a nationally award winning academic experience offering you the chance to participate in a recreated post mortem experience conducted on VIVIT -the worlds only semi-synthetic human cadaver. During this special 5 hour experience you will be taken on a scientifically accurate recreated human body dissection learning in-depth anatomy and physiology relevant to your academic studies. The course is interactive and designed to support those students currently at The University of Ulster and any other students studying in the biosciences, health, sports or associated degree pathways that require an understanding of advanced anatomy and physiology or indeed the associated clinical pathologies. The procedure will be lead by Samuel Piri who will first set out the basics of anatomical dissection before systematically working their way through the anatomical cavities comparing normal specimens with various states of pathology. You will also be taught a variety of important clinical skills including interpreting X-rays and linking symptoms to clinical diagnosis. There will be the opportunity to ask questions and at the same time handle the anatomical samples and even the chance to undertake some dissection for yourself.
+There are 1 experience operating on the 15th March in Ulster. A daytime experience operating between 10.00am and 3.00pm. 
+All tickets are sold subject to the ITAE Groups terms and conditions. All tickets are non refundable and non transferable. Strictly students over 16. No alcohol permitted. Photography and recorded footage will be taken.
+Copyright 2018.",
+        "duration": 18000000,
+        "end": "2019-03-15T15:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "The VIVIT Experience | Enhanced Undergraduate Post Mortem | Ulster 15/03/19",
+        "source": "eventbrite",
+        "source_id": "47772276164",
+        "start": "2019-03-15T10:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/the-vivit-experience-enhanced-undergraduate-post-mortem-ulster-150319-tickets-47772276164?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "ANATOMY LAB LIVE | THE SURGERY
+Anatomy Lab LIVE is returning for 2019 offering a surgical spin on dinner and dissection. The nationally acclaimed dinner and dissection experience attracted headlines around the world and after two amazing sell out tours we’re back for 2019 bigger and better than before!
+The experience will see those quick enough to grab tickets enjoy a two course meal in our operating theatre dining room. The room will plunge to blackout and our centre stage operating theatre will spring into action. Ventilators, a crash trolley and full team will spring will race the clock to save a patients life as the show opens. A live patient will be rushed through the crowd into the pod before being anaesthetised in a state of panic.  Broadcast to our live screens you’ll see Samuel Piri and his clinical team take the scalpel to the patients chest. As the scalpel goes in and the incisions are made the inside organs are revealed and surgery starts…  
+Each table will be draped in full blue surgical drapes as well as a surgical trolley with clamps, scalpels and an array of surgeons tools. Guided by nationally acclaimed human anatomist Samuel Piri and his team of clinicians you’ll systematically work your way through a complete dissection of the human body attempting a variety of surgical techniques.
+Working on real specimens using real surgeons tools you’ll discover the intricate structures and how they function to keep you alive. At the 2019 event you’ll also have a go yourself at corrective surgical procedures using real kit on the specimens.
+Each guest will be provided with real surgical overalls including a full surgeons gown, hat, mask and gloves. You’ll be using real surgeons scissors, scalpels, clamps and kidney dishes to intubate the respiratory system and event suture tissues using surgeons suturing kits. After taking part you’ll claim your exclusive Anatomy Lab live CPD certificate. There will be an exclusive Anatomy Lab LIVE merchandise kiosk where you can buy notebook packs, organ transplant lunchboxes, blood infusion bag coffee cups, anatomy lab live surgical pyjamas and nurses watches.
+“Were really excited to be back with the surgery tour in 2019. We’ve worked hard to respond to everybody’s feedback and requests and the ‘The Surgery’ is definitely going to be exciting. A perfect blend of infotainment that will promise and unforgettable night like never before. We urge you to get your tickets as soon as possible as the last two tours have sold out within a few hours! ” Samuel Piri
+Who can attend?
+The event delivers in-depth content aimed at those studying anatomy, physiology or pathology at undergraduate level and for those who are already practicing healthcare professionals. The event is also a great experience for any person who is interested in the human body, disease or medicine on the whole. The wider general public are also encourage to attend.
+How do I get a ticket?
+
+
+Standard tickets £79.00
+
+
+HSC ticket £70.00 (NHS)
+
+
+NUS-USI tickets £70.00
+
+
+Group tickets for 10 people, (prosecco reception, upgraded nitrile glove packs, Anatomy lab live notebook and pencils) £900.00 (or £850 for a table of HSC staff, students, armed forces employees, University Staff or Teachers)
+
+
+Overnight Package for 2 people includes prosecco meet and greet, upgraded nitrile gloves and a room for two people (double or twin) and breakfast £300.00
+
+
+ 
+Full details and terms and conditions can be found online.
+You will receive a certificate for attending which can be used for your own CPD.
+This is a highly recommended event which made headline global news. We recommend booking tickets early as they will sell out.
+Student and NHS discount available (proof will be required for admission into the venue).
+The meal option is chicken or vegetarian, you will need to contact Anatomy Lab Live after purchasing the ticket to request a vegetarian meal. Chicken will be served by default.
+NB: All tickets are non-transferable and non-refundable.",
+        "duration": 18000000,
+        "end": "2019-03-16T22:30:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "ANATOMY LAB LIVE : THE SURGERY | Belfast 16/03/2019",
+        "source": "eventbrite",
+        "source_id": "45139814400",
+        "start": "2019-03-16T17:30:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/anatomy-lab-live-the-surgery-belfast-16032019-tickets-45139814400?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "As part of Innovate UK’s second Women in Innovation programme, KTN will be running four Building Success events in Cardiff, Glasgow, London and Belfast. Take the opportunity to network with like-minded women, learn from experts and hear from successful female entrepreneurs at these free to attend events. We'd encourage female founders and women working within innovation from all industries to attend.
+Starting at 8.30am with a networking breakfast the Building Success events will be an all-day event.
+The morning session will include an overview of the funding and finance landscape, including regional support, and upcoming opportunities from Innovate UK. After this there will be four masterclasses; two before lunch and two after.
+The masterclasses available are:
+
+Grant writing masterclass: When applying for a grant it often requires a significant investment of time to put forward a compelling case. Yet grants can be a real enabler in realising your innovative ideas and supporting business growth. So, what are the key elements that make a successful grant application? How can you make your application stand out from the crowd and deliver a competitive business case? Find out during this session.
+Market validation: Be equipped with tools and techniques to really gain understanding of your target market. Learn how to build this understanding into your proposed concept. This workshop helps develop a fundamental skill that ensures your concept is aligned with a true market need or challenge. The result? Product development has a clear route to market and the value you offer will be communicated to your customer with conviction. 
+Innovation canvas: There are many problems that need to be solved on the way to a successful commercial innovation. We need a framework that poses the questions that a company must address to manage a process that is often tortuous and unpredictable. Borrowing from the model of the Business Model Canvas, KTN has developed an ‘Innovation Canvas’, which is divided into conversation blocks focused on the major issues that must be addressed in the innovation process. Join this workshop to apply your innovation and see which areas you need to focus on.
+Investor readiness – helping you to understand what an investor is looking for: Are you looking to secure investment to grow your business? In this workshop learn about what an investor looks for, how to find committed and interested investors and how to present your business through a memorable pitch.
+
+After an afternoon coffee and networking break, the final part of the day will involve a panel session with successful female entrepreneurs in your region, and talks from previous Women in Innovation award winners.
+The event will conclude with a cheese and wine networking session finishing at 6.30pm.
+Join the conversation on social media using #WomenInnovate",
+        "duration": 36000000,
+        "end": "2019-03-20T18:30:00.000Z",
+        "entry": Array [
+          "free",
+        ],
+        "location": "belfast",
+        "name": "Women in Innovation: Building Success - Belfast",
+        "source": "eventbrite",
+        "source_id": "48687856690",
+        "start": "2019-03-20T08:30:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/women-in-innovation-building-success-belfast-registration-48687856690?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+  Array [
+    Object {
+      "body": Object {
+        "category": "technology",
+        "description": "On behalf of Computing At School and the Network of Excellence
+
+
+Two-Day Programming Course for GCSE and A Level
+
+Thursday and Friday 30th and 31st May 2019
+
+Stranmillis University College
+
+
+
+
+
+
+Gain the skills and confidence to teach Python programming to pupils undertaking the new CCEA GCSE specification in Digital Technology, or who are following a GCSE Computing qualification with a UK examination board. This intensive event will start at the beginning, taking you through all of the key skills required for Computing at this level.
+
+
+
+We are offering 2 courses here one aimed at GCSE and the other at A level, There will be 2 teachers for these courses
+Day 1 - GCSE Overview and Understanding Programming: Input / output and assignment Selection and nested selection Iteration and looping constructs – While and for Loops Overview of the GCSE concepts; assessment criteria Developing applications in Python Day 2 - Advanced Skills: Identifying the key characteristics of pupil success at GCSE Creating user interfaces, validation, formatted output Lists, data manipulation Advanced variable assignment; data types; selection String manipulation vs list operations Use of functions and passing parameters Advanced Python – data storage and persistence
+
+A level:
+Coursework skills for success:
+
+Coursework ideas and complexity guides
+Workflow and project managements
+Graphical User Interfaces
+Object-Oriented Programming, including inheritance and polymorphism
+SQL-based relational database backend
+A look at some game creation techniques
+We will look at Python and C#
+
+ All materials and resources used on this course will be made available to all delegates after the course.
+SPEAKERS
+Darren Travi & Ilia Avroutine
+There are two teachers, both of whom have extensive experience of teaching Computer Science at GCSE and A Level, and who are extensively involved with a large Examination Board through the provision of resources, training, assessment and exams.  Darren Travi Head of Computing at the Royal Grammar School, High Wycombe and a CAS Master Teacher, Darren leads the South Buckinghamshire CAS Hub. He has taught A-Level Computer Science since the 1990's, and GCSE Computing since the course started in 2010.  Ilia Avroutine Ilia has taught A-Level Computer Science for over ten years, having previously taught Computing in Canada. He is Head of Computer Science at the Wetherby Senior School in London. He has a wide experience of teaching Computing and has co-authored a number of popular resources and textbooks. 
+CONTACT
+darren.travi@computingatschool.org.uk
+Electronic Privacy Computing At School (CAS)/Network of Excellence (NoE) communicates with its interested parties by email. I understand that CAS/NoE will not pass on my email address to other organisations. Data Protection Act 1998 CAS/NoE as part of the BCS Group will hold your personal data on its computer database and process it in accordance with the Act. This information may be accessed, viewed and used by CAS/NoE for administrative purposes and conducting market research. All of these purposes have been notified to the Commissioner. If you are based outside the European Economic Area (the 'EEA'), information about you may be transferred outside the EEA in accordance with the requirements of the Act.
+Full legal and privacy notices: http://www.bcs.org/category/5655",
+        "duration": 115200000,
+        "end": "2019-05-31T16:00:00.000Z",
+        "entry": Array [
+          "ticket",
+        ],
+        "location": "belfast",
+        "name": "Two-Day Programming Course for GCSE and A Level",
+        "source": "eventbrite",
+        "source_id": "41694401076",
+        "start": "2019-05-30T08:00:00.000Z",
+        "topics": Array [
+          "Science & Technology",
+        ],
+        "url": "https://www.eventbrite.co.uk/e/two-day-programming-course-for-gcse-and-a-level-tickets-41694401076?aff=ebapi",
+      },
+      "json": true,
+      "method": "POST",
+      "url": "http://localhost/events",
+    },
+    [Function],
+  ],
+]
+`;
