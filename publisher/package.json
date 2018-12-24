@@ -1,6 +1,6 @@
 {
-  "name": "muxer-pull-events-eventbrite",
-  "description": "Pull eventbrite.com events data",
+  "name": "muxer-publish-events",
+  "description": "Publish events data",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -9,8 +9,8 @@
   "private": true,
   "dependencies": {
     "@muxer/event-schema": "1.0.0",
-    "@muxer/lambda-utils": "1.0.0",
     "aws-lambda-data-utils": "1.0.0",
-    "jsonschema": "1.2.4"
+    "jsonschema": "1.2.4",
+    "request": "2.88.0"
   }
 }

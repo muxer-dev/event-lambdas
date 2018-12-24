@@ -38,7 +38,11 @@
     "farsetlabs:transformer:update": "cd farsetlabs && serverless deploy function -f transform --aws-profile muxer",
     "farsetlabs:transformer:invoke": "cd farsetlabs && serverless invoke -f transform -l --aws-profile muxer",
     "farsetlabs:transformer:invoke-local": "cd farsetlabs && serverless invoke local -f transform",
-    "farsetlabs:transformer:logs": "cd farsetlabs && serverless logs -f transform -l --aws-profile muxer"
+    "farsetlabs:transformer:logs": "cd farsetlabs && serverless logs -f transform -l --aws-profile muxer",
+    "publisher:publish:update": "cd publisher && serverless deploy function -f publish --aws-profile muxer",
+    "publisher:publish:invoke": "cd publisher && serverless invoke -f publish -l --aws-profile muxer",
+    "publisher:publish:invoke-local": "cd publisher && serverless invoke local -f publish",
+    "publisher:publish:logs": "cd publisher && serverless logs -f publish -l --aws-profile muxer"
   },
   "dependencies": {
     "serverless": "1.35.1"
