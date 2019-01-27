@@ -80,7 +80,7 @@ describe("Eventbrite transformer", function() {
         transformer.transform(event, context, function() {
           expect(uploadTo).toHaveBeenCalledTimes(1);
           expect(uploadTo).toHaveBeenCalledWith(
-            "muxer-transformed-events",
+            "muxer-events",
             expect.any(Function),
             []
           );

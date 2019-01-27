@@ -28,7 +28,7 @@ const convert = ({
   entry: charge.is_free ? ["free"] : ["ticket"],
   category: "technology",
   source: sourceData.name,
-  // source_id: sourceData.id,
+  source_id: sourceData.id,
   location: "belfast"
 });
 
@@ -39,7 +39,6 @@ const makeRequestFor = event =>
     json: true,
     body: convert(event)
   }).then(function(response) {
-    console.log(convert(event));
     if (`${response.statusCode}`.startsWith(2)) return response;
     throw new Error(`Unsuccessful request; ${response.statusCode}`);
   });

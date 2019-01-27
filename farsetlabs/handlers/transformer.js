@@ -38,7 +38,7 @@ const transformEvent = function(
       country: "GB"
     },
     charge: {
-        is_free: true,
+      is_free: true
     },
     created_at: new Date(created).toISOString(),
     last_updated: new Date(updated).toISOString(),
