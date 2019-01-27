@@ -21,27 +21,20 @@ functions:
     handler: handlers/publisher.publish
     environment:
       TZ: Europe/Belfast
+    events:
+      - existingS3:
+          bucket: ${self:custom.eventsBucket}
+          events:
+            - s3:ObjectCreated:*
+
 
 resources:
   Resources:
-    S3BucketMuxerTransformedEvents:
-      DependsOn:
-        - TransformLambdaPermissionS3BucketMuxerTransformedEventsS3
+    MuxerTransformedEventsS3Bucket:
       Type: AWS::S3::Bucket
       Properties:
         BucketName: ${self:custom.eventsBucket}
-        NotificationConfiguration:
-          LambdaConfigurations:
-            - Event: "s3:ObjectCreated:*"
-              Function:
-                "Fn::GetAtt": [ TransformLambdaFunction, Arn ]
-    TransformLambdaPermissionS3BucketMuxerTransformedEventsS3:
-      DependsOn:
-        - TransformLambdaFunction
-      Type: AWS::Lambda::Permission
-      Properties:
-        FunctionName:
-          "Fn::GetAtt": [ TransformLambdaFunction, Arn ]
-        Action: "lambda:InvokeFunction"
-        Principal: "s3.amazonaws.com"
-        SourceArn: "arn:aws:s3:::${self:custom.eventsBucket}"
+
+
+plugins:
+  - serverless-plugin-existing-s3

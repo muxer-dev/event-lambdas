@@ -11,6 +11,7 @@
     "@muxer/event-schema": "1.0.0",
     "aws-lambda-data-utils": "1.0.0",
     "jsonschema": "1.2.4",
-    "request": "2.88.0"
+    "request": "2.88.0",
+    "serverless-plugin-existing-s3": "^2.3.0"
   }
 }

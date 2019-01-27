@@ -1,6 +1,6 @@
 module.exports = {
   buckets: () => ({
-    eventsBucket: "muxer-transformed-events"
+    eventsBucket: "muxer-events"
   }),
-  muxerEventsApi: process.env.MUXER_EVENTS_API
+  muxerEventsApi: "https://muxer.co.uk/events"
 };
