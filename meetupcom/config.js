@@ -36,7 +36,7 @@ const eventsParams = convert({
 module.exports = {
   buckets: () => ({
     producerBucket: "muxer-produced-events-meetupcom",
-    eventsBucket: "muxer-transformed-events"
+    eventsBucket: "muxer-events"
   }),
   getGroupsUrl: () => `${groupsApi}?${groupsParams}`,
   getEventsUrl: slug => `${eventsApi(slug)}?${eventsParams}`

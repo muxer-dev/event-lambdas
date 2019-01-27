@@ -17,7 +17,7 @@ const eventsParams = () =>
 module.exports = {
   buckets: () => ({
     producerBucket: "muxer-produced-events-farsetlabs",
-    eventsBucket: "muxer-transformed-events"
+    eventsBucket: "muxer-events"
   }),
   getEventsUrl: () => `${eventsApi}?${eventsParams()}`
 };

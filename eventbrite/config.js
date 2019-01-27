@@ -28,7 +28,7 @@ const eventsParams = page =>
 module.exports = {
   buckets: () => ({
     producerBucket: "muxer-produced-events-eventbrite",
-    eventsBucket: "muxer-transformed-events"
+    eventsBucket: "muxer-events"
   }),
   getEventsUrl: ({ page }) => `${eventsApi}?${eventsParams(page)}`
 };
