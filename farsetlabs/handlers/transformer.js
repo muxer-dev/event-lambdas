@@ -37,6 +37,9 @@ const transformEvent = function(
       city: "Belfast",
       country: "GB"
     },
+    charge: {
+        is_free: true,
+    },
     created_at: new Date(created).toISOString(),
     last_updated: new Date(updated).toISOString(),
     source_data: {
