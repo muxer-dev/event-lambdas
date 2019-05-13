@@ -45,7 +45,7 @@
     "publisher:publish:logs": "cd publisher && serverless logs -f publish -l --aws-profile muxer"
   },
   "dependencies": {
-    "serverless": "1.38.0"
+    "serverless": "1.42.2"
   },
   "devDependencies": {
     "eslint": "5.12.0",
