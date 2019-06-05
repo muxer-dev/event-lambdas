@@ -3,7 +3,7 @@
 exports[`Eventbrite transformer when a new file is added to the bucket which contains complete events uploads transformed events list 1`] = `
 Array [
   Array [
-    "muxer-transformed-events",
+    "muxer-events",
     [Function],
     Array [
       Object {
@@ -387,7 +387,7 @@ Worst Case Scenario is the second show in the Zombie Science spoof lecture serie
 exports[`Eventbrite transformer when a new file is added to the bucket which contains incomplete events uploads transformed events list, without incomplete events 1`] = `
 Array [
   Array [
-    "muxer-transformed-events",
+    "muxer-events",
     [Function],
     Array [
       Object {
@@ -697,7 +697,7 @@ Worst Case Scenario is the second show in the Zombie Science spoof lecture serie
 exports[`Eventbrite transformer when multiple new files are added to the bucket uploads transformed events lists 1`] = `
 Array [
   Array [
-    "muxer-transformed-events",
+    "muxer-events",
     [Function],
     Array [
       Object {
@@ -1076,7 +1076,7 @@ Worst Case Scenario is the second show in the Zombie Science spoof lecture serie
     ],
   ],
   Array [
-    "muxer-transformed-events",
+    "muxer-events",
     [Function],
     Array [
       Object {

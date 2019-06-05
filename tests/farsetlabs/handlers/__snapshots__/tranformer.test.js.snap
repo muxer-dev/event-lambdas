@@ -3,10 +3,13 @@
 exports[`Farsetlabs transformer when a new file is added to the bucket which contains complete events uploads transformed events list 1`] = `
 Array [
   Array [
-    "muxer-transformed-events",
+    "muxer-events",
     [Function],
     Array [
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-05-21T10:21:12.000Z",
         "description": "https://www.meetup.com/CodeCoop-NI",
         "last_updated": "2018-05-21T10:33:48.120Z",
@@ -38,6 +41,9 @@ Array [
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2017-09-19T08:01:05.000Z",
         "description": "http://www.farsetlabs.org.uk/events/coderdojo.html",
         "last_updated": "2017-09-19T08:01:06.267Z",
@@ -69,6 +75,9 @@ Array [
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-08-10T19:01:39.000Z",
         "description": "Halloween Cyber Security Challenge (Because vulnerability is scary)
 Code Co-op: https://www.meetup.com/CodeCoop-NI/
@@ -102,6 +111,9 @@ Contact Zoe or Art for more details.",
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2013-10-29T11:11:12.000Z",
         "description": " ",
         "last_updated": "2016-09-25T16:33:30.395Z",
@@ -133,6 +145,9 @@ Contact Zoe or Art for more details.",
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-10-05T07:04:40.000Z",
         "description": "Details TBC",
         "last_updated": "2018-10-05T07:04:43.673Z",
@@ -171,10 +186,13 @@ Contact Zoe or Art for more details.",
 exports[`Farsetlabs transformer when a new file is added to the bucket which contains incomplete events uploads transformed events list, without incomplete events 1`] = `
 Array [
   Array [
-    "muxer-transformed-events",
+    "muxer-events",
     [Function],
     Array [
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-05-21T10:21:12.000Z",
         "description": "https://www.meetup.com/CodeCoop-NI",
         "last_updated": "2018-05-21T10:33:48.120Z",
@@ -206,6 +224,9 @@ Array [
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2017-09-19T08:01:05.000Z",
         "description": "http://www.farsetlabs.org.uk/events/coderdojo.html",
         "last_updated": "2017-09-19T08:01:06.267Z",
@@ -237,6 +258,9 @@ Array [
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-08-10T19:01:39.000Z",
         "description": "Halloween Cyber Security Challenge (Because vulnerability is scary)
 Code Co-op: https://www.meetup.com/CodeCoop-NI/
@@ -270,6 +294,9 @@ Contact Zoe or Art for more details.",
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-10-05T07:04:40.000Z",
         "description": "Details TBC",
         "last_updated": "2018-10-05T07:04:43.673Z",
@@ -308,10 +335,13 @@ Contact Zoe or Art for more details.",
 exports[`Farsetlabs transformer when multiple new files are added to the bucket uploads transformed events lists 1`] = `
 Array [
   Array [
-    "muxer-transformed-events",
+    "muxer-events",
     [Function],
     Array [
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-05-21T10:21:12.000Z",
         "description": "https://www.meetup.com/CodeCoop-NI",
         "last_updated": "2018-05-21T10:33:48.120Z",
@@ -343,6 +373,9 @@ Array [
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2017-09-19T08:01:05.000Z",
         "description": "http://www.farsetlabs.org.uk/events/coderdojo.html",
         "last_updated": "2017-09-19T08:01:06.267Z",
@@ -374,6 +407,9 @@ Array [
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-08-10T19:01:39.000Z",
         "description": "Halloween Cyber Security Challenge (Because vulnerability is scary)
 Code Co-op: https://www.meetup.com/CodeCoop-NI/
@@ -407,6 +443,9 @@ Contact Zoe or Art for more details.",
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2013-10-29T11:11:12.000Z",
         "description": " ",
         "last_updated": "2016-09-25T16:33:30.395Z",
@@ -438,6 +477,9 @@ Contact Zoe or Art for more details.",
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-10-05T07:04:40.000Z",
         "description": "Details TBC",
         "last_updated": "2018-10-05T07:04:43.673Z",
@@ -471,10 +513,13 @@ Contact Zoe or Art for more details.",
     ],
   ],
   Array [
-    "muxer-transformed-events",
+    "muxer-events",
     [Function],
     Array [
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-05-21T10:21:12.000Z",
         "description": "https://www.meetup.com/CodeCoop-NI",
         "last_updated": "2018-05-21T10:33:48.120Z",
@@ -506,6 +551,9 @@ Contact Zoe or Art for more details.",
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2017-09-19T08:01:05.000Z",
         "description": "http://www.farsetlabs.org.uk/events/coderdojo.html",
         "last_updated": "2017-09-19T08:01:06.267Z",
@@ -537,6 +585,9 @@ Contact Zoe or Art for more details.",
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-08-10T19:01:39.000Z",
         "description": "Halloween Cyber Security Challenge (Because vulnerability is scary)
 Code Co-op: https://www.meetup.com/CodeCoop-NI/
@@ -570,6 +621,9 @@ Contact Zoe or Art for more details.",
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2013-10-29T11:11:12.000Z",
         "description": " ",
         "last_updated": "2016-09-25T16:33:30.395Z",
@@ -601,6 +655,9 @@ Contact Zoe or Art for more details.",
         },
       },
       Object {
+        "charge": Object {
+          "is_free": true,
+        },
         "created_at": "2018-10-05T07:04:40.000Z",
         "description": "Details TBC",
         "last_updated": "2018-10-05T07:04:43.673Z",
